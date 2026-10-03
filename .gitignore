@@ -1,0 +1,37 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+firebase_configurations.json
+*.json.secret
+service_account.json
+
+# Virtual environments
+env/
+.venv/
+venv/
+ENV/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+
+# Streamlit run files
+.streamlit/secrets.toml
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+
+# Output data exports
+*.xlsx
+*.xls
+*.csv

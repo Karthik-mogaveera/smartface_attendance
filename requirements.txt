@@ -1,0 +1,13 @@
+streamlit>=1.41.0
+firebase-admin>=6.6.0
+opencv-python>=4.10.0
+mediapipe>=0.10.20
+deepface>=0.0.93
+tensorflow>=2.18.0
+tf-keras>=2.18.0
+bcrypt>=4.2.1
+pandas>=2.2.3
+openpyxl>=3.1.5
+python-dotenv>=1.0.1
+numpy>=1.26.4
+Pillow>=11.1.0
